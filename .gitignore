@@ -5,3 +5,4 @@ __pycache__/
 .env
 logs/*
 !logs/.gitkeep
+!logs/sample_success_orders.log
